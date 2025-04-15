@@ -7,7 +7,7 @@
 
 ## ℹ️ About Me
 
-> A technology, programming, and game development enthusiast. With foundational programming skills in languages like C# and Rust, I always strive to do my best with what I can and deliver the highest quality work possible.
+> A technology, programming, and game development enthusiast. With foundational programming skills in languages like C# and Rust, I always strive to do my best with my current knowledge and deliver the highest quality work possible.
 
 ## 🎓 Skills
 
@@ -18,9 +18,19 @@
 
 ## 🛠️ Current Project
 
-> Using Godot Engine and C#, I'm working on a game called FrontZ, which is set during the first world war, and the player will have to deal with hordes of zombies while trying to survive in the war.
+> Using Godot Engine and C#, I'm working on a game called FrontZ - a game set during World War I where players must survive zombie hordes while navigating the challenges and horrors of war.
 - Link: <a href="">Work in progress</a> ⏳
+<!-->
+Steam:
+Itch.io:
+<-->
 
 ## 💌 Contact
 
-> <a href="mailto:vpedro.vn@gmail.com">vpedro.vn@gmail.com</a><br>🟢 WhatzApp: <u>+55 (61) 9 9649-5149</u> (Temporarily unavailable for calls. Text messages only❗)
+- ✉️ <a href="mailto:vpedro.vn@gmail.com">vpedro.vn@gmail.com</a>
+- 🟢 WhatsApp: <u>+55 (61) 9 9649-5149</u> <strong>(Temporarily unavailable for calls. Text messages only❗)</strong>
+<!-->
+Twitter:
+Bluesky:
+LinkedIn:
+<-->

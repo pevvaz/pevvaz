@@ -1,10 +1,11 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://github.com/arthurspk/guiadevbrasil">
+    <img src="/iocn.png" alt="Pedro Vinícius Vaz | pevvaz" width="160" height="160">
+  </a>
+  <h1 align="center">Pedro Vinícius Vaz | pevvaz</h1>
+</p>
 
-a
----
---
--
-a
+## About me
 
 <!--
 **pevvaz/pevvaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

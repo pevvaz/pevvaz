@@ -9,20 +9,21 @@
 
 > A simple enthusiast of technology, programming and game development. With simple programming skills in languages ​​such as C# and Rust.
 
-## 🎓 Learning | Languages
+## 🎓 Languages
 
-> C# and Rust🦀
+> Nothing special, just a very basic knowledge of:
+- C# 🔵
+- Rust 🦀
 
 ## 🛠️ Working on
 
-> Working on a game called FrontZ. Link: (Work in progress) ⏳
+> Working on a game called FrontZ.
+- Link: <a>Work in progress</a> ⏳
 
 ## 💌 Contact
 
-> <a href="vpedro.vn@gmail.com">
-    vpedro.vn@gmail.com
-  </a>
-  🟢 WhatzApp: +55 (61) 9 9649-5149 (Phone temporarily unavailable. Messages only❗)
+> <a href="mailto:vpedro.vn@gmail.com">vpedro.vn@gmail.com</a>
+  🟢 WhatzApp: <s>+55 (61) 9 9649-5149</s> <b>(Phone temporarily unavailable. Messages only❗)</b>
 
 <!--
 **pevvaz/pevvaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

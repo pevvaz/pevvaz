@@ -20,7 +20,7 @@
 
 > Using Godot Engine and C#, I'm working on a game called FrontZ - a game set during World War I where players must survive zombie hordes while navigating the challenges and horrors of war.
 - Link: <a href="">Work in progress</a> ⏳
-<!-->
+<!--
 Steam:
 Itch.io:
 -->

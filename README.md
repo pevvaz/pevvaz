@@ -5,37 +5,23 @@
   <h1 align="center">Pedro Vinícius Vaz | pevvaz</h1>
 </p>
 
-## ℹ️ About me
+## ℹ️ About Me
 
-> A simple enthusiast of technology, programming and game development. With simple programming skills in languages ​​such as C# and Rust.
+> A technology, programming, and game development enthusiast. With foundational programming skills in languages like C# and Rust, I always strive to do my best with what I can and deliver the highest quality work possible.
 
-## 🎓 Languages
+## 🎓 Skills
 
-> Nothing special, just a very basic knowledge of:
+> Nothing special, just developing my skills in:
 - C# 🔵
 - Rust 🦀
+- Godot Engine 🎮
 
-## 🛠️ Working on
+## 🛠️ Current Project
 
-> Working on a game called FrontZ.
-- Link: <a>Work in progress</a> ⏳
+> Using Godot Engine and C#, I'm working on a game called FrontZ, which is set during the first world war, and the player will have to deal with hordes of zombies while trying to survive in the war.
+- Link: <a href="">Work in progress</a> ⏳
 
 ## 💌 Contact
 
 > <a href="mailto:vpedro.vn@gmail.com">vpedro.vn@gmail.com</a>
-  🟢 WhatzApp: <s>+55 (61) 9 9649-5149</s> <b>(Phone temporarily unavailable. Messages only❗)</b>
-
-<!--
-**pevvaz/pevvaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 🟢 WhatzApp: <u>+55 (61) 9 9649-5149</u> <strong>(Temporarily unavailable for calls. Text messages only❗)</strong>

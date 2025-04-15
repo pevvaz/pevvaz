@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/pevvaz">
-    <img src="/iocn.png" alt="Pedro Vinícius Vaz | pevvaz" width="160" height="160">
+    <img src="/icon.png" alt="Pedro Vinícius Vaz | pevvaz" width="160" height="160">
   </a>
   <h1 align="center">Pedro Vinícius Vaz | pevvaz</h1>
 </p>
@@ -18,7 +18,7 @@
 
 ## 🛠️ Current Project
 
-> Using Godot Engine and C#, I'm working on a game called FrontZ - a game set during World War I where players must survive zombie hordes while navigating the challenges and horrors of war.
+> Using Godot Engine and C#, I'm working on a game called FrontZ - a game set during World War 1 where players must survive zombie hordes while navigating the challenges and horrors of war.
 - Link: <a href="">Work in progress</a> ⏳
 <!--
 Steam:

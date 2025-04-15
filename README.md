@@ -23,14 +23,14 @@
 <!-->
 Steam:
 Itch.io:
-<-->
+-->
 
 ## 💌 Contact
 
 - ✉️ <a href="mailto:vpedro.vn@gmail.com">vpedro.vn@gmail.com</a>
 - 🟢 WhatsApp: <u>+55 (61) 9 9649-5149</u> <strong>(Temporarily unavailable for calls. Text messages only❗)</strong>
-<!-->
+<!--
 Twitter:
 Bluesky:
 LinkedIn:
-<-->
+-->

@@ -1,16 +1,26 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://github.com/pevvaz">
+    <img src="/icon.png" alt="Pedro Vinícius Vaz | pevvaz" width="160" height="160">
+  </a>
+  <h1 align="center">Pedro Vinícius Vaz | pevvaz</h1>
+</p>
 
+## ℹ️ About Me
+
+> A technology, programming, and game development enthusiast. With foundational programming skills in languages like C# and Rust, I always strive to do my best with my current knowledge and deliver the highest quality work possible.
+
+## 🎓 Skills
+
+> Nothing special, just developing my skills in:
+- C# 🔵
+- Rust 🦀
+
+## 💌 Contact
+
+- ✉️ <a href="mailto:vpedro.vn@gmail.com">vpedro.vn@gmail.com</a>
+- 🟢 WhatsApp: +55 (61) 9 9649-5149 <strong>(Temporarily unavailable for calls. Text messages only❗)</strong>
 <!--
-**pevvaz/pevvaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Twitter:
+Bluesky:
+LinkedIn:
 -->
